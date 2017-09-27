@@ -6,7 +6,7 @@
 //    $client = Elasticsearch\ClientBuilder::create()->build();
 
 // Define Data
-    $name = 'kibana.gif';
+    $name = 'images/kibana.gif';
     $fp = fopen($name, 'rb');
     header("Content-Type: image/gif");
     header("Content-Length: " . filesize($name));

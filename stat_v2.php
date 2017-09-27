@@ -10,7 +10,7 @@
     $Date = date("c");
     $Time = date("H:i");
     $user_agent = $_SERVER['HTTP_USER_AGENT'];
-    $picname = 'kibana.gif';
+    $picname = 'images/kibana.gif';
     $fp = fopen($picname, 'rb');
     header("Content-Type: image/gif");
     header("Content-Length: " . filesize($picname));
