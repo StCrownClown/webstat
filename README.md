@@ -3,12 +3,12 @@
 
 test some new video >>> https://www.facebook.com/ImCrownClown/videos/vb.1007151633/10212979081724229
 
-![alt text](https://github.com/StCrownClown/webstat/blob/images/master/webstat01.png "webstat 1")
+![alt text](https://github.com/StCrownClown/webstat/blob/master/images/webstat01.png "webstat 1")
 
-![alt text](https://github.com/StCrownClown/webstat/blob/images/master/webstat02.png "webstat 2")
+![alt text](https://github.com/StCrownClown/webstat/blob/master/images/webstat02.png "webstat 2")
 
-![alt text](https://github.com/StCrownClown/webstat/blob/images/master/webstat03.png "webstat 3")
+![alt text](https://github.com/StCrownClown/webstat/blob/master/images/webstat03.png "webstat 3")
 
-![alt text](https://github.com/StCrownClown/webstat/blob/images/master/webstat04.png "webstat 4")
+![alt text](https://github.com/StCrownClown/webstat/blob/master/images/webstat04.png "webstat 4")
 
-![alt text](https://github.com/StCrownClown/webstat/blob/images/master/webstat05.png "webstat 5")
+![alt text](https://github.com/StCrownClown/webstat/blob/master/images/webstat05.png "webstat 5")
